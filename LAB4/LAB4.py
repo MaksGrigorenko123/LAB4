@@ -21,4 +21,5 @@ print("Lowercase text:", lowercase_text)
 print("Text without punctuation:", no_punctuation_text)
 print("List of words:", words_list)
 print("Replaced text:", replaced_text)
+# Зробив Григоренко Максим КН33
 
